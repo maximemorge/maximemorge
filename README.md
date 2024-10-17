@@ -1,2 +1,2 @@
-# maximemorge-
-My interests
+# My interests
+Maxime Morge is full Professor at University of Lyon 1. He was Associate Professor at University of Lille since 2006. He was previously Research Associate at University of Pisa from 2006 until 2009 and he has defended his PhD thesis in 2005 at MINES Saint-Étienne. His research activities are related to Computer Science, in particular Artificial Intelligence, Multiagent Systems, Negotiation and Big Data.
